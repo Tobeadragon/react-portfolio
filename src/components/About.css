@@ -1,0 +1,25 @@
+.About {
+  
+    margin-top: 50px;
+    
+}
+
+.About main {
+    background: linear-gradient(to bottom, grey, white);
+    height: 100vh;
+    outline: 1px solid white;
+}
+
+.About p{
+    color: blue;
+background: white;
+font-size: 20px;
+border: 2px solid white;
+border-radius: 10px;
+margin: 20px;
+padding: 20px;
+height: 100px;
+overflow: auto;
+    overflow: auto;
+}
+
